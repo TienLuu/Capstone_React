@@ -6,3 +6,16 @@
 -  UI Component: Material UI
 -  Carousel: Swiper
 -  Style: scss
+
+### Folder structure
+
+-  src/
+   -  assets/
+   -  components/
+   -  hooks/
+   -  layouts/
+   -  middleware/
+   -  pages/
+   -  routers/
+   -  services/
+   -  utils/
